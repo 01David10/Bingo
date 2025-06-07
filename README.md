@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/bingo-game.git  
+git clone https://github.com/<your-username>/bingo-game.git  
 cd bingo-game
 ```  
 
@@ -55,7 +55,6 @@ By default, the app will run at `http://localhost:5173`.
 
 ## Scripts  
 
-- `npm run server`: Starts the Socket.io server.  
 - `npm run dev`: Starts the development server for the client.  
 - `npm run build`: Builds the React app for production.  
 
@@ -88,11 +87,5 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions are welcome! Please open an issue or create a pull request for any suggestions or improvements.
 
 ---
-
-## Contact  
-
-For any questions, feel free to reach out:  
-- **Email**: afanadorgaleano@gmail.com 
-- **GitHub**: [SanAfaGal](https://github.com/SanAfaGal)  
 
 Enjoy playing Bingo! 🎉  
